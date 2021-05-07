@@ -1,0 +1,29 @@
+
+.container{
+    background-color: #212529 !important;
+}
+.text-white {
+    color: #fff !important;
+}
+.p-3 {
+    padding: 1rem !important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+body {
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
+    -webkit-text-size-adjust: 500%;
+    align-content: center;
+
+}
+.img-background{
+    width: 100px;
+    height: auto;
+    margin-right: 90%;
+
+}
